@@ -1,0 +1,19 @@
+{
+  "name": "serverless-lambda-hook-start-ec2-server",
+  "version": "1.0.0",
+  "description": "For fully detached websites that use a server-based CMS it's not necessary to keep the server on when not doing content entry. Turning the server off when not in use increases security and reduces monthly cloud costs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innesian/serverless-lambda-hook-start-ec2-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innesian/serverless-lambda-hook-start-ec2-server/issues"
+  },
+  "homepage": "https://github.com/innesian/serverless-lambda-hook-start-ec2-server#readme"
+}
