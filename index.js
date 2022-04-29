@@ -1,3 +1,5 @@
+const AWS = require('aws-sdk');
+
 /**
  * Spins up an EC2 instance and serves a waiting page that redirects after 10 seconds.
  * 
